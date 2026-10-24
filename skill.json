@@ -1,0 +1,9 @@
+{
+  "name": "genpark-simhash-near-duplicate-detector-skill",
+  "version": "1.0.1",
+  "description": "64-bit SimHash Hamming distance engine with char n-gram weighted projection for detecting redundant or plagiarism LLM outputs",
+  "author": "AlphaPark Inc",
+  "license": "Apache-2.0",
+  "main": "client.py",
+  "runtime": "python3"
+}
